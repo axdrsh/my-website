@@ -28,7 +28,7 @@ export function generateMetadata({ params }) {
     : `${baseUrl}/og?title=${encodeURIComponent(title)}`
 
   return {
-    title,
+    // title,
     description,
     openGraph: {
       title,
