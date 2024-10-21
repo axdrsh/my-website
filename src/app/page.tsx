@@ -36,22 +36,22 @@ export default function MinimalPersonalWebsite() {
         </p>
         <ul className="list-disc pl-5">
           <li id="project">
-            <a href="#" className="underline">
+            <a href="https://github.com/axdrsh/pulse" className="underline">
               <samp>pulse</samp>
             </a>
           </li>
           <li id="project">
-            <a href="#" className="underline">
+            <a href="https://github.com/axdrsh/cusswatchbot" className="underline">
               <samp>cusswatchbot</samp>
             </a>
           </li>
           <li id="project">
-            <a href="#" className="underline">
+            <a href="https://github.com/axdrsh/seekster" className="underline">
               <samp>seekster</samp>
             </a>
           </li>
           <li id="project">
-            <a href="#" className="underline">
+            <a href="https://github.com/axdrsh/solvetosurf" className="underline">
               <samp>solvetosurf</samp>
             </a>
           </li>
