@@ -36,6 +36,11 @@ export default function MinimalPersonalWebsite() {
         </p>
         <ul className="list-disc pl-5">
           <li id="project">
+            <a href="https://github.com/axdrsh/thoughtss" className="underline">
+              <samp>thoughts.</samp>
+            </a>
+          </li>
+          <li id="project">
             <a href="https://github.com/axdrsh/pulse" className="underline">
               <samp>pulse</samp>
             </a>
