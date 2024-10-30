@@ -25,10 +25,10 @@ export default function MinimalPersonalWebsite() {
         </header>
         <br />
         <h2>
-          <samp>my projects</samp>
+          <samp>(some of) my projects</samp>
         </h2>
         <p>
-          <samp>you can checkout my projects on my </samp>
+          <samp>you can checkout all of my projects on my </samp>
           <a href="https://github.com/axdrsh" className="underline">
             <samp>github</samp>
           </a>
