@@ -9,17 +9,12 @@ export default function MinimalPersonalWebsite() {
           </h2>
           <aside>
             <samp>
-              a first-year college student who likes building and creating
-              things with code and technology. my interests span a wide range of
-              fields, and i appreciate a minimalist approach in both design and
-              life. when i'm not coding, you'll often find me producing{" "}
-              <a
-                href="https://www.youtube.com/@catcupcate"
-                className="underline"
-              >
-                music
+              first-year college student. likes building with code and technology. minimalist in design and life. 
+            Also sometimes producing{" "}
+            <a href="https://www.youtube.com/@catcupcate" className="underline hover:text-gray-600">
+              music
               </a>{" "}
-              - another one of my creative passions. :)
+            :)
             </samp>
           </aside>
         </header>
