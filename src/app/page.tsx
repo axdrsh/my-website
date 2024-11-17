@@ -9,7 +9,7 @@ export default function MinimalPersonalWebsite() {
           </h2>
           <aside>
             <samp>
-              first-year college student. likes building with code and technology. minimalist in design and life. 
+              first-year college student. interested in cybersecurity and building stuff with code and technology. minimalist in design and life. 
             also sometimes producing{" "}
             <a href="https://www.youtube.com/@catcupcate" className="underline hover:text-gray-600">
               music
