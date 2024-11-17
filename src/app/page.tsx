@@ -12,7 +12,7 @@ export default function MinimalPersonalWebsite() {
               first-year college student. interested in cybersecurity and building things with code and technology. minimalist in design and life. 
             also sometimes producing{" "}
             <a href="https://www.youtube.com/@catcupcate" className="underline hover:text-gray-600">
-              music
+              music.
               </a>{" "}
             :)
             </samp>
