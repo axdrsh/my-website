@@ -51,9 +51,9 @@ export default function MinimalPersonalWebsite() {
             </a> <samp> - a google search clone.</samp>
           </li>
           <li id="project">
-            <a href="https://github.com/axdrsh/solvetosurf" className="underline">
-              <samp>solvetosurf</samp>
-            </a> <samp> - a website blocker that requires you to solve math problems.</samp>
+            <a href="https://github.com/axdrsh/moodify" className="underline">
+              <samp>moodify</samp>
+            </a> <samp> - a mood based song recommender.</samp>
           </li>
         </ul>
         <br />
