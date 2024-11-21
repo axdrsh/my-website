@@ -35,6 +35,11 @@ export default function MinimalPersonalWebsite() {
               <samp>thoughts.</samp>
             </a> <samp> - a place to let your thoughts out anonymously.</samp>
           </li>
+           <li id="project">
+            <a href="https://github.com/axdrsh/moodify" className="underline">
+              <samp>moodify</samp>
+            </a> <samp> - a mood based song recommender.</samp>
+          </li>
           <li id="project">
             <a href="https://github.com/axdrsh/pulse" className="underline">
               <samp>pulse</samp>
@@ -49,11 +54,6 @@ export default function MinimalPersonalWebsite() {
             <a href="https://github.com/axdrsh/seekster" className="underline">
               <samp>seekster</samp>
             </a> <samp> - a google search clone.</samp>
-          </li>
-          <li id="project">
-            <a href="https://github.com/axdrsh/moodify" className="underline">
-              <samp>moodify</samp>
-            </a> <samp> - a mood based song recommender.</samp>
           </li>
         </ul>
         <br />
